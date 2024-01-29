@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://www.codewars.com/users/joeyready/badges/micro" alt="CodeWars Badge">
+<img src="URL:https://www.codewars.com/users/joeyready/badges/small
+" alt="CodeWars Badge">
 
 
 <!--
