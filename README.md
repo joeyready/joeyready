@@ -1,11 +1,10 @@
-### Hi there I'm Joey👋
+### Hi, I'm Joey 👋
 
-QA Engineer | Python Developer
+**Python Developer & QA Engineer** — building automation tools, test frameworks, and Django apps. Former commercial photographer (15+ years) turned software developer.
 
-Building Python tools, Django apps, and automation projects.
-Former product photographer with 15+ years of experience transitioning into software.
+**What I work with:** Python · Django · SQL · TypeScript · Test Automation · Computer Vision
 
-Python • Django • SQL • TypeScript • QA • Computer Vision
+📍 Orange County, CA · 📷 [joeyready.com](https://www.joeyready.com) — my photography work
 
 
 <!--
