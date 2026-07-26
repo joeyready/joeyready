@@ -7,9 +7,10 @@ Former product photographer with 15+ years of experience transitioning into soft
 
 Python • Django • SQL • TypeScript • QA • Computer Vision
 
-<img src="https://www.codewars.com/users/joeyready/badges/micro" alt="CodeWars Badge">
 
 <!--
+<img src="https://www.codewars.com/users/joeyready/badges/micro" alt="CodeWars Badge">
+
 **joeyready/joeyready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
