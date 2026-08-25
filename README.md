@@ -1,6 +1,6 @@
 ### Hi, I'm Joey 👋
 
-**Python Developer & QA Engineer** — building automation tools, test frameworks, and Django apps. Former commercial photographer (15+ years) turned software developer.
+**Python Developer & QA Engineer** — building automation tools, test frameworks, and Django apps. Former commercial photographer turned software developer.
 
 **What I work with:** Python · Django · SQL · TypeScript · Test Automation · Computer Vision
 
