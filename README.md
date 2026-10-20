@@ -2,9 +2,9 @@
 
 **Python Developer & QA Engineer** — building automation tools, test frameworks, and Django apps. Former commercial photographer turned software developer.
 
-**What I work with:** Python · Django · SQL · TypeScript · Test Automation · Computer Vision
+**What I work with:** Python · Playwright · Django · SQL · TypeScript · Test Automation · Computer Vision
 
-📍 Orange County, CA · 📷 [joeyready.com](https://www.joeyready.com) — my photography work
+📍 Orange County, CA · 📷 [joeyready.com](https://www.joeyready.com) — my photography work if youre interested
 
 
 <!--
