@@ -1,25 +1,11 @@
 ### Hi, I'm Joey 👋
 
-**Python Developer & QA Engineer** — building automation tools, test frameworks, and Django apps. Former commercial photographer turned software developer.
+**QA Engineer & Python Developer.** I build test automation, internal tools, and Django apps. Former commercial photographer, which is where my eye for detail comes from.
 
-**What I work with:** Python · Playwright · Django · SQL · TypeScript · Test Automation · Computer Vision
+**Currently working on:** automated Playwright + pytest tests for a live production web app, run in GitHub Actions with failure traces and Slack alerts → [race-app-tests](https://github.com/joeyready/race-app-tests)
 
-📍 Orange County, CA · 📷 [joeyready.com](https://www.joeyready.com) — my photography work if youre interested
+**What I work with:** Python · Playwright · pytest · GitHub Actions · Django
 
-
-<!--
-<img src="https://www.codewars.com/users/joeyready/badges/micro" alt="CodeWars Badge">
-
-**joeyready/joeyready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Orange County, CA
+📫 [your email or LinkedIn here]
+📷 My photography: [joeyready.com](https://www.joeyready.com)
