@@ -12,5 +12,5 @@
 **What I work with:** Python · Playwright · pytest · GitHub Actions · Django · AppleScript
 
 📍 Orange County, CA
-📫 [LinkedIn](https://www.linkedin.com/in/joey-ready/)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/joey-ready/)
 📷 My photography: [joeyready.com](https://www.joeyready.com)
